@@ -60,3 +60,8 @@ The file is a UTF-8 text file that has an edge or a node on each line. A node co
 This programme can read in a file in the above mentioned format. It also translates the lines to node and edge objects. The nodes are built in a way that they represent the problem at hand, the decision tree.
 The decision tree is executed by asking the questions from the decision tree and to navigating through the tree until an answer is found. The starting question is the node which is not a destination for any edge and an answer is a node where no edges originate from.
 
+Exceptional Users:
+
+We are creating a user management system. We need to be able to add users to our database. A user has a username and a password. The password should not be easy to guess, so it should consist of one lowercase character, one uppercase character and one number.
+While the programm can handle exceptions, a good design should prevent that. Thus, if the user enters invalid input, it will
+simply query him/her to handle valid input.

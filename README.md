@@ -3,38 +3,31 @@ File repository of Patrick.
 The following information is available for the assignments (Copied from academy.sogyo.nl)!
 
 Leap year:
-  A program that has a year as input and then checks if this year is a leap year.
-
-  A year is a leap year when:
-
+A program that has a year as input and then checks if this year is a leap year.
+A year is a leap year when:
   every fourth year is a leap year.
   a new century is only a leap year when it is dividable by 400.
 
 Lists:
 Here, lists and arrays are manipulated with operations as outlined below:
 
-  Creates a program that will initialize an array with 10 random numbers between 0 and 100. Display the list.
-
-  The highest. Expands program so that the highest value in your array will be displayed.
-
-  The lowest two. Expands program so that the result of adding the two lowest values in the array will be displayed.
-
-  Filter. Expands program to display all values that are even.
-
-  Split. Expands program to generate four list. In the first list contains all numbers that can be divided by 2, the second numbers tha can be divided by 3, the third list contains numbers that can be divided by 5, and the final list contains the remaining numbers.
-
-  Sort. Expands program so that it will display the result of sorting the numbers in the array in ascending order. Uses the BubbleSort algorithm.
+  -Creates a program that will initialize an array with 10 random numbers between 0 and 100. Display the list.
+  -The highest. Expands program so that the highest value in your array will be displayed.
+  -The lowest two. Expands program so that the result of adding the two lowest values in the array will be displayed.
+  -Filter. Expands program to display all values that are even.
+  -Split. Expands program to generate four list. In the first list contains all numbers that can be divided by 2, the second numbers tha can be divided by 3, the third list contains numbers that can be divided by 5, and the final list contains the remaining numbers.
+  -Sort. Expands program so that it will display the result of sorting the numbers in the array in ascending order. Uses the BubbleSort algorithm.
   
   
 Hangman:
 Hangman is a guessing game in which the user guesses a word randomly picked from a list of words. The user guesses a letter. If it’s contained in the word, the corresponding letters in the word are shown. If it’s not in the word, the user loses a guess. After 10 wrong guesses, the computer wins. Contains:
 
-  Conditional statements
-  Input and ouput
-  Loops (Iteration statements)
-  State; remembering values
-  Randomisation based on a given collection
-  Converting non-numeric logic to code
+  -Conditional statements
+  -Input and ouput
+  -Loops (Iteration statements)
+  -State; remembering values
+  -Randomisation based on a given collection
+  -Converting non-numeric logic to code
   
   
   
